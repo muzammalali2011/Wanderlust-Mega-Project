@@ -18,7 +18,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 - GitHub (Code)
 - Docker (Containerization)
 - Jenkins (CI)
-- OWASP (Dependency check)
 - SonarQube (Quality)
 - Trivy (Filesystem Scan)
 - ArgoCD (CD)
@@ -46,7 +45,6 @@ WanderLust is a simple MERN travel blog website ✈ This project is aimed to hel
 | eksctl | <a href="#EKS">Install eksctl</a>     |
 | Argocd | <a href="#Argo">Install and configure ArgoCD</a>     |
 | Jenkins-Worker Setup | <a href="#Jenkins-worker">Install and configure Jenkins Worker Node</a>     |
-| OWASP setup | <a href="#Owasp">Install and configure OWASP</a>     |
 | SonarQube | <a href="#Sonar">Install and configure SonarQube</a>     |
 | Email Notification Setup | <a href="#Mail">Email notification setup</a>     |
 | Monitoring | <a href="#Monitor">Prometheus and grafana setup using helm charts</a>
